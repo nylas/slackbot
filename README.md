@@ -11,7 +11,7 @@ with email, contacts or calendar functionality. In this tutorial, you are going 
 events to your personal calendar with a simple Slack slash command. We’ll dive into the nitty gritty of how to build a 
 Slack bot from scratch. 
 
-
+#### Checkout [this post](https://www.nylas.com/blog/build-a-slack-bot-scheduler-in-30-minutes) for the full instructions!
 
 ## What You’ll Need Beforehand
 
@@ -41,6 +41,6 @@ TLDR; Create a Slack App and configure a slash command to communicate with your 
 ### Part 4: Add text parsing functionality
 TLDR; Parse the text sent from Slack into meaningful components for an event
 
-###Part 5: Build scheduling functionality
+### Part 5: Build scheduling functionality
 TLDR; Send the parsed arguments to the /events endpoint of the Nylas API to create an event on your calendar.
   
